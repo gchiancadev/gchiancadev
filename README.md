@@ -1,47 +1,79 @@
-# 👨‍💻 Gabryel
+
+
+
+<div align="center">
+
+# Olá👋, Eu sou Gabryel
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Gabryel Chianca Lopes, tenho 18 anos e moro na cidade de Guarulhos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNISA. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
-<img align="right" alt="study" height="190px" src="./src/study.gif">
+</div>
 
----
+----
 
-### 🌐 Conecte-se comigo
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6)](https://www.linkedin.com/in/gabryel-chianca-46a6b0333/)
+# 🚀Sobre mim
 
----
+</div>
 
-### 🤖 Linguagens e Tecnologias
 
-<img 
-  align="left" 
-  alt="Java" 
-  title="Java"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
+**Olá, eu sou Gabryel!** 👋
 
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por desenvolvimento **Back-end**. Meu foco é criar APIs robustas, escaláveis e de alta performance utilizando **Java** e o ecossistema **Spring**.
+
+Atualmente estudo **Java**, **Spring Boot**, **Spring Security**, **PostgreSQL**, **Docker** e **Swagger (OpenAPI)**, buscando desenvolver aplicações escaláveis, seguras e preparadas para ambientes de produção.
+
+Estou constantemente aprimorando minhas habilidades em algoritmos, estruturas de dados e boas práticas de desenvolvimento, sempre em busca de novos desafios e oportunidades para crescer profissionalmente.
+
+
+
+
+<div align="center">
+
+## 🌐 Conecte-se comigo
+
+
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/gabryel-chianca-46a6b0333/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="72" height="60" alt="linkedin logo"  />
+  </a>
+</div>
+
+
+
+
+<div align="center">
+
+## 🤖 Linguagens e Tecnologias
+
+
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,idea,docker,postman,maven"/>
+  </a>
+</p>
 <br/><br/>
 
----
+<div align="center">
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
-<p>
-  <img 
-  align="left" 
-  height="200" 
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabryelsx7&show_icons=true&theme=tokyonight&locale=pt-br" 
-/>
+</div>
 
-  <img 
-    align="left" 
-    alt="Tecnologias" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabryelsx7&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<div align="center">
+
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Gabryelsx7&include_all_commits=true&theme=dark" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=Gabryelsx7&langs_count=4&theme=dark" />
+  </a>
 </p>
+
+</div>
