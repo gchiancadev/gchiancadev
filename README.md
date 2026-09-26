@@ -69,10 +69,10 @@ Estou constantemente aprimorando minhas habilidades em algoritmos, estruturas de
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Gabryelsx7&include_all_commits=true&theme=dark" />
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=gchiancadev&include_all_commits=true&theme=dark" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=Gabryelsx7&langs_count=4&theme=dark" />
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=gchiancadev&langs_count=4&theme=dark" />
   </a>
 </p>
 
